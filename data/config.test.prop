@@ -1,0 +1,6 @@
+test
+model-name = perception.model
+decode-file = D:/wsl_workplace/SegOfPerception/data/wsl.txt
+output-file = D:/wsl_workplace/SegOfPerception/data/wsl.txt
+
+

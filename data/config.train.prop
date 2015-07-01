@@ -1,0 +1,7 @@
+train
+train-file = C:/Users/hitwsl/Desktop/PA_disfluency_Perception/data/train
+develop-file = C:/Users/hitwsl/Desktop/PA_disfluency_Perception/data/dev
+test-file = C:/Users/hitwsl/Desktop/PA_disfluency_Perception/data/test
+iteration = 30
+#update = PA
+model-name = perception.model
